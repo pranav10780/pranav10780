@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <a href="pranavsuresh107@gmail.com">
+  <a href="mailto:pranavsuresh107@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pranav10780" target="_blank">
