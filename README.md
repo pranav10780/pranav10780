@@ -1,8 +1,7 @@
 ### About Me
-- Just a kid trying to get into cybersecurity and hacking
+- Just a kid trying to get into $${\color{lightgreen}Cyber \space security}$$ and $${\color{red}Hacking}$$
 - Still learning the ropes :)
-- Look forward ti learn or help in anything related to red/blue teaming
-
+- Look forward to learn or help in anything related to $${\color{red}red}$$ / $${\color{lightgreen}blue}$$ teaming
 
 ---
 <!-- scrouce of the msfconsole ascii asrt is https://github.com/bcoles/metasploit-logos -->
