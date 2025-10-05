@@ -1,11 +1,12 @@
 ### About Me
-- Just a kid trying to get into $${\color{lightgreen}Cyber \space security}$$ and $${\color{red}Hacking}$$
-- Still learning the ropes :)
-- Look forward to learn or help in anything related to $${\color{red}red}$$ / $${\color{lightgreen}blue}$$ teaming
+- Cybersecutiry (blue team)
+- Reverse Engineering
+- Contributes to open source projects
+- Causal gamer
 
 ---
 <!-- scrouce of the msfconsole ascii asrt is https://github.com/bcoles/metasploit-logos -->
-<img src="https://github.com/pranav10780/pranav10780/blob/main/img/github.png" alt="msfconsole_ascii_art">
+<!-- <img src="https://github.com/pranav10780/pranav10780/blob/main/img/github.png" alt="msfconsole_ascii_art"> -->
 
 <br>
 
