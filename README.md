@@ -1,6 +1,5 @@
 ### About Me
-- Cybersecutiry (blue team)
-- Reverse Engineering
+- Cybersecutiry
 - Contributes to open source projects
 - Causal gamer
 
