@@ -1,7 +1,7 @@
 ### About Me
 - Cybersecutiry
 - Contributes to open source projects
-- Causal gamer
+- Chess player
 
 ---
 <!-- scrouce of the msfconsole ascii asrt is https://github.com/bcoles/metasploit-logos -->
