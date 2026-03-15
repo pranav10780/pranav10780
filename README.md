@@ -4,13 +4,11 @@
 - Chess player
 
 ---
-<!-- scrouce of the msfconsole ascii asrt is https://github.com/bcoles/metasploit-logos -->
-<!-- <img src="https://github.com/pranav10780/pranav10780/blob/main/img/github.png" alt="msfconsole_ascii_art"> -->
-
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,c,discord,docker,github,gmail,html,instagram,linux,md,mysql,neovim,php,powershell,py,stackoverflow,ubuntu,vim,vscode,windows,wordpress" />
+  <!-- https://github.com/tandpfun/skill-icons/issues/1655#issuecomment-4062800784 -->
+  <img src="https://skills.syvixor.com/api/icons?i=bash,c,discord,docker,github,gmail,html,instagram,linux,md,mysql,neovim,php,powershell,py,stackoverflow,ubuntu,vim,vscode,windows,wordpress,termux&perline=11"/>
 </p>
 
 <br>
