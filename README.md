@@ -1,7 +1,13 @@
-### About Me
-- Cybersecutiry
-- Contributes to open source projects
-- Chess player
+```bash
+root@laptop :~$ whoami
+
+Name        : Pranav Suresh
+Location    : Kerala, India
+Born        : 17 July 2007
+CurrentWork : Open source projects
+Status      : Always learning
+```
+
 
 ---
 <br>
